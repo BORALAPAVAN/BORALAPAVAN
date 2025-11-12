@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/bccaec22-9a85-4fce-9f30-d8ed2b53ceed)
-<h1 align="left">Hi 👋, I'm Pavan Borala</h1>
-<h3 align="left">A passionate Data Analyst from India.</h3>
+<h1 align="center">Hi 👋, I'm Pavan Borala</h1>
+<h3 align="center">A passionate Data Analyst from India.</h3>
 
 <p align="right">
   <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/148937593/d0ff6534-017c-4df2-a8de-434f26db0e1d.gif">
