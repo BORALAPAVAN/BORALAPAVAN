@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/yourimage.png)
+![Image](https://github.com/user-attachments/assets/bccaec22-9a85-4fce-9f30-d8ed2b53ceed)
 # 👋 Hi, I'm Pavan Borala  
 
 🎯 **Aspiring Data Analyst | Power BI | SQL | Python | Excel**  
