@@ -21,7 +21,7 @@
 
 ### ⚙️ Tools and Technologies I Utilize  
 <p align="left">
-  <img src="https://www.mysql.com/"/>
+   https://www.mysql.com/
   <img src="https://user-images.githubusercontent.com/yourimage2.png" alt="Power BI" width="60"/>
   <img src="https://user-images.githubusercontent.com/yourimage3.png" alt="Excel" width="60"/>
   <img src="https://user-images.githubusercontent.com/yourimage4.png" alt="Python" width="60"/>
