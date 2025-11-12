@@ -1,5 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/bccaec22-9a85-4fce-9f30-d8ed2b53ceed)
 <h1 align="center"> Hi👋 , I'm Pavan Borala</h1>
+
+---
+
 ### 👋 A passionate **Data Analyst** from India  
 
 ---
@@ -12,7 +15,7 @@
 
 📫 How to reach me: [boralapavan13@gmail.com](mailto:boralapavan13@gmail.com)  
 
-👨‍💻 All of my Projects are available at [My Portfolio]https://codebasics.io/portfolio/Pavan-Borala
+👨‍💻 All of my Projects are available at [My Portfolio](https://codebasics.io/portfolio/Borala-Pavan)  
 
 📄 Know about my Experiences on [LinkedIn](https://www.linkedin.com/in/borala-pavan-491797253/)  
 
@@ -35,3 +38,4 @@
 ![Excel](https://user-images.githubusercontent.com/yourimage3.png)
 ![Python](https://user-images.githubusercontent.com/yourimage4.png)
 ![Pandas](https://user-images.githubusercontent.com/yourimage5.png)
+
