@@ -3,16 +3,16 @@
 <h3 align="left">A passionate Data Analyst from India.</h3>
 
 <p align="right">
-  <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/123456789/yourimage.png">
+  <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/148937593/d0ff6534-017c-4df2-a8de-434f26db0e1d.gif">
 </p>
 
 - 👀 I’m interested in **Data Analytics**  
 - 🌱 I’m skilled in **MySQL**, **Power BI**, **Tableau**, **Python**, and **Advanced Excel**  
 - 💞️ I’m looking to collaborate on a **full-time Data Analyst job**  
-- 📫 How to reach me **boralapavan.pa1@gmail.com**  
-- 👨‍💻 All of my Projects are available at [**My Portfolio**](https://codebasics.io/portfolio/Pavan-Borala) 
+- 📫 How to reach me: **boralapavan.pa1@gmail.com**  
+- 👨‍💻 All of my Projects are available at [**My Portfolio**](https://codebasics.io/portfolio/Pavan-Borala)  
 - 📄 Know about my Experiences on [**LinkedIn**](https://www.linkedin.com/in/borala-pavan-491797253/)  
-- ⚡ Fun fact: Data analysts are often called *"Data Detectives"* 🕵️‍♂️ because they uncover insights by investigating patterns and trends in data  
+- ⚡ **Fun fact:** I love turning messy datasets into clear business stories 📊 — because every number hides a pattern waiting to be discovered.  
 
 ### 🤝 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/borala-pavan-491797253/)  
