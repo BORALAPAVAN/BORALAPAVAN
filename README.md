@@ -12,7 +12,7 @@
 
 📫 How to reach me: [boralapavan13@gmail.com](mailto:boralapavan13@gmail.com)  
 
-👨‍💻 All of my Projects are available at [My Portfolio](https://codebasics.io/portfolio/Pavan-Borala) 
+👨‍💻 All of my Projects are available at [My Portfolio]https://codebasics.io/portfolio/Pavan-Borala
 
 📄 Know about my Experiences on [LinkedIn](https://www.linkedin.com/in/borala-pavan-491797253/)  
 
