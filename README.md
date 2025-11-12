@@ -26,3 +26,24 @@
 </p>
 
 ### ⚙️ Tools and Technologies I Utilize  
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" alt="SQL" width="40" height="40"/>
+  </a>
+</p>
