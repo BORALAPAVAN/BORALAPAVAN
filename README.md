@@ -15,8 +15,14 @@
 - ⚡ **Fun fact:** I love turning messy datasets into clear business stories 📊 — because every number hides a pattern waiting to be discovered.  
 
 ### 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/borala-pavan-491797253/)  
-[![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge&logo=gmail)](mailto:boralapavan.pa1@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge)](https://codebasics.io/portfolio/Pavan-Borala)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/borala-pavan-491797253/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pavan1_vk18/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 ### ⚙️ Tools and Technologies I Utilize  
