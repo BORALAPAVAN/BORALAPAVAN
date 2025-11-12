@@ -1,3 +1,4 @@
+![Banner](https://i.imgur.com/yourimage.png)
 # 👋 Hi, I'm Pavan Borala  
 
 🎯 **Aspiring Data Analyst | Power BI | SQL | Python | Excel**  
