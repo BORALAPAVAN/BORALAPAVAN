@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/bccaec22-9a85-4fce-9f30-d8ed2b53ceed)
-#             Hi,👋 I'm Pavan Borala  
+                 #Hi,👋 I'm Pavan Borala  
 
 🎯 **Aspiring Data Analyst | Power BI | SQL | Python | Excel**  
 💡 Passionate about turning raw data into actionable business insights that drive smarter decisions.  
