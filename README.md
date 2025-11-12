@@ -16,14 +16,7 @@
 
 ### 🤝 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/borala-pavan-491797253/)  
-[![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge&logo=gmail)](mailto:boralapavan13@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge)](https://codebasics.io/portfolio/Borala-Pavan)  
+[![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge&logo=gmail)](mailto:boralapavan.pa1@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge)](https://codebasics.io/portfolio/Pavan-Borala)  
 
 ### ⚙️ Tools and Technologies I Utilize  
-<p align="left">
-   https://www.mysql.com/
-  <img src="https://user-images.githubusercontent.com/yourimage2.png" alt="Power BI" width="60"/>
-  <img src="https://user-images.githubusercontent.com/yourimage3.png" alt="Excel" width="60"/>
-  <img src="https://user-images.githubusercontent.com/yourimage4.png" alt="Python" width="60"/>
-  <img src="https://user-images.githubusercontent.com/yourimage5.png" alt="Pandas" width="60"/>
-</p>
