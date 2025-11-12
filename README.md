@@ -10,7 +10,7 @@
 - 🌱 I’m skilled in **MySQL**, **Power BI**, **Tableau**, **Python**, and **Advanced Excel**  
 - 💞️ I’m looking to collaborate on a **full-time Data Analyst job**  
 - 📫 How to reach me **boralapavan.pa1@gmail.com**  
-- 👨‍💻 All of my Projects are available at [**My Portfolio**](https://codebasics.io/portfolio/Borala-Pavan)  
+- 👨‍💻 All of my Projects are available at [**My Portfolio**](https://codebasics.io/portfolio/Pavan-Borala) 
 - 📄 Know about my Experiences on [**LinkedIn**](https://www.linkedin.com/in/borala-pavan-491797253/)  
 - ⚡ Fun fact: Data analysts are often called *"Data Detectives"* 🕵️‍♂️ because they uncover insights by investigating patterns and trends in data  
 
